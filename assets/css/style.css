@@ -1,0 +1,122 @@
+body { 
+
+    background: url('../images/bg/bg.png') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  body {
+      margin: 0;
+      padding: 0;
+  }
+
+  .text {
+      background-color: #ffffff;
+      margin: 0;
+      padding: 1px;
+      margin-bottom: 50px;
+      position: relative;
+}
+}
+h1, h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2 {
+    color: #4aaaa5;
+}
+p {
+    color: #777777;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 2;
+    position: relative;
+    top: 20px;
+    left: 40px;
+    margin-right: 60px;
+}
+footer {
+    background-color: #666666;
+    height: 50px;
+    border-top: 8px solid #4aaaa5;
+}
+.about {
+    background: #ffffff;
+}
+.about {
+    width: 960px;
+    height: 460px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 40px;
+    margin-bottom: 40px;
+    position: relative;
+}
+img {
+    float: left;
+    position: relative;
+    left: 20px;
+    top: 20px;
+}
+h1 {
+    color: #ffffff;
+    background: #4aaaa5;
+    text-align: center;
+    width: 200px;
+    padding: 20px;
+    position: relative;
+    left: 200px;
+    top: 23px;
+}
+h2 {
+    position: relative;
+    top: 20px;
+    padding-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-bottom: 2px solid #dddddd;
+}
+section {
+    text-decoration: none;
+    float: right;
+    position: relative;
+    top: -40px;
+    right: 200px;
+}
+.link {
+    text-decoration: none;
+    color: #777777;
+    padding-right: 10px;
+    padding-left: 10px;
+    border-right: 0.5px solid #cccccc;
+}
+.inputs {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777777;
+    position: relative;
+    margin-left: 20px;
+    top: 20px;
+}
+.name {
+    margin-bottom: 20px;
+    line-height: 1.5;
+}
+.email {
+    margin-bottom: 20px;
+    line-height: 1.5;
+}
+.mess {
+    line-height: 1.5;
+}
+.button {
+    background-color: #4aaaa5;
+    border: none;
+    color: white;
+    padding: 10px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
